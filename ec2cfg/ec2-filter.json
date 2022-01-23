@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "instance-type",
+        "Values": ["t3.xlarge", "t3.micro"]
+    },
+    {
+        "Name": "tag:Name",
+        "Values": ["genshin.*.internal.com"]
+    }
+]
